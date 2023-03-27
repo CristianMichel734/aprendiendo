@@ -1,3 +1,4 @@
 Kinder: Maria Jose
 Primaria: Liceo Americano Jose Vasconcelos
 Secundaria: Escuela Secundaria Federal Insurgentes
+Preparatoria: Centro de Estudios Tecnologicos E Industrial No. 108
